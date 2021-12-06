@@ -1,0 +1,44 @@
+﻿<div class="coin-container">
+    <div class="coin-row">
+        <div class="coin">
+            <img src=@Image alt="crypto" />
+            <h1>@Name</h1>
+            <p class="coin-symbol">@Symbol</p>
+        </div>
+        <div class="coin-data">
+            <p class="coin-price">$@Price</p>
+            <p class="coin-volume">@String.Format("{0:n0}", @Volume)</p>
+
+            @if (PriceChange < 0)
+            {
+                <p class="coin-percent red">@Math.Round(@PriceChange, 2)%</p>
+            }
+            else
+            {
+                <p class="coin-percent green">@Math.Round(@PriceChange, 2)%</p>
+            }
+
+
+        <p class="coin-marketcap">
+            Market Cap: $@String.Format("{0:n0}", MarketCap)
+        </p>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Name { get; set; }
+    [Parameter]
+    public string Image { get; set; }
+    [Parameter]
+    public string Symbol { get; set; }
+    [Parameter]
+    public double Price { get; set; }
+    [Parameter]
+    public double Volume { get; set; }
+    [Parameter]
+    public double PriceChange { get; set; }
+    [Parameter]
+    public double MarketCap { get; set; }
+}

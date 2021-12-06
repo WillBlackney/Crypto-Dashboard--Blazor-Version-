@@ -1,0 +1,60 @@
+﻿@page "/"
+@using Crypto_Dashboard_2.Client.Models
+@using Crypto_Dashboard_2.Client.Components
+@inject HttpClient httpClient
+
+
+<div class="coin-app">
+    <div class="coin-search">
+        <h1 class="coin-text">Search a currency</h1>
+        <form>
+            <input type="text"
+                   class="coin-input"
+                   placeholder="Search"
+                   @oninput="@((e) => { SearchText=(string)e.Value; OnSearchTermChange(); })"/>
+        </form>
+    </div>
+    @if (filteredResponse == null)
+    {
+        Console.WriteLine("Null response");
+        <p>Loading...</p>
+    }
+
+    else
+    {
+        foreach (CoinData coin in filteredResponse)
+        {
+            <CoinInfoTab Name="@coin.name" Price="@coin.current_price" Symbol="@coin.symbol" MarketCap="@coin.market_cap" Volume="@coin.total_volume" PriceChange="@coin.price_change_percentage_24h" Image="@coin.image" />
+        }
+    }
+
+</div>
+
+
+
+
+
+@code
+{
+    public string SearchText { get; set; } = "";
+
+    public List<CoinData> response;
+    public List<CoinData> filteredResponse = new List<CoinData>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("FetchData.OnInitializedAsync() called...");
+
+        response = await httpClient.GetFromJsonAsync<List<CoinData>>("https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false");
+
+        filteredResponse.AddRange(response);
+    }
+
+    public void OnSearchTermChange()
+    {
+        Console.WriteLine("OnSearchTermChange() called, search term = " + SearchText);
+        filteredResponse = response.Where(coin => coin.name.ToLower().Contains(SearchText.ToLower())).ToList();
+    }
+
+
+}
