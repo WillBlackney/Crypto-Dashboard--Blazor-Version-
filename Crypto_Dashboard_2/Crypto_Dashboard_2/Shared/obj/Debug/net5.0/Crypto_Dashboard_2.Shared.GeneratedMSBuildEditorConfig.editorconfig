@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows,browser
 build_property.RootNamespace = Crypto_Dashboard_2.Shared
-build_property.ProjectDir = C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\
+build_property.ProjectDir = C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\

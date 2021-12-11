@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Client\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Client\wwwroot\" />
 </StaticWebAssets>

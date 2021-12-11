@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jbHFuuMNTFTT8I0CySGS3aExzfxPiK4Jl5pMRa77RwnLVTOGhLNIpxk3Gix5amhhzb+TIUgo/9sHfNylXMa+9Q==",
+  "dgSpecHash": "pRVYsAh7dS0nI45dJ/QhvYPhnlNNch0/gtWMPUi/vLgwSAq+m7MC/ELEMxesv4FdsUDFs+f3dv7BIqBDbSnzOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Server\\Crypto_Dashboard_2.Server.csproj",
+  "projectFilePath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Server\\Crypto_Dashboard_2.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.5\\microsoft.aspnetcore.authorization.5.0.5.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.5\\microsoft.aspnetcore.components.5.0.5.nupkg.sha512",

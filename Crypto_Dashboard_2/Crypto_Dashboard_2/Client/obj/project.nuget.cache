@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SCOQSIgjH8jLbRkX6ilt0KTNWDFkv+DKPSWOjPSV6BnU8aHK2Q6x0XQoZPh/dDzWBra1yrcHnVassarYVvCH/g==",
+  "dgSpecHash": "QCd6Tm/hHWyGSkTDISH6UQ1fj0lFeUXGMTZTeY0E9S0GEq23USwmupb6FmVBnzwBnGVfmuVLe8pBvPMpy/4dvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Client\\Crypto_Dashboard_2.Client.csproj",
+  "projectFilePath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Client\\Crypto_Dashboard_2.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.5\\microsoft.aspnetcore.authorization.5.0.5.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.5\\microsoft.aspnetcore.components.5.0.5.nupkg.sha512",
@@ -30,7 +30,7 @@
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.5\\microsoft.jsinterop.webassembly.5.0.5.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.5\\microsoft.netcore.app.runtime.browser-wasm.5.0.5.nupkg.sha512"
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.12\\microsoft.netcore.app.runtime.browser-wasm.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

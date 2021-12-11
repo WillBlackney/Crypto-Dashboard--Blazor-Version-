@@ -10,3 +10,15 @@ C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboa
 C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.dll
 C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\ref\Crypto_Dashboard_2.Shared.dll
 C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.pdb
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\bin\Debug\net5.0\Crypto_Dashboard_2.Shared.deps.json
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\bin\Debug\net5.0\Crypto_Dashboard_2.Shared.dll
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\bin\Debug\net5.0\ref\Crypto_Dashboard_2.Shared.dll
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\bin\Debug\net5.0\Crypto_Dashboard_2.Shared.pdb
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.AssemblyInfo.cs
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.dll
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\ref\Crypto_Dashboard_2.Shared.dll
+C:\Users\willi\Desktop\WebProjects\Blazor Apps\Crypto-Dashboard--Blazor-Version-\Crypto_Dashboard_2\Crypto_Dashboard_2\Shared\obj\Debug\net5.0\Crypto_Dashboard_2.Shared.pdb

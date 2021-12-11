@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj": {}
+    "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj": {
+    "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj",
         "projectName": "Crypto_Dashboard_2.Shared",
-        "projectPath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj",
+        "projectPath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\Crypto_Dashboard_2.Shared.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Desktop\\WebProjects\\Blazor Apps\\Crypto-Dashboard--Blazor-Version-\\Crypto_Dashboard_2\\Crypto_Dashboard_2\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
